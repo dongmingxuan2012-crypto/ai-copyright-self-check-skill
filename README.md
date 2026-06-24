@@ -52,6 +52,10 @@ Use $ai-copyright-self-check to review this AI video before I post it as sponsor
 用 $ai-copyright-self-check 检查这条商单视频的 BGM、AI 配音和 IP 风险。
 ```
 
+## 示例报告
+
+- [动漫同人压力测试：火影忍者高度指向案例](examples/anime-naruto-risk-test.md)
+
 ## 免责声明
 
 本 skill 提供创作者发布前的实操风险自查，不构成法律意见。遇到高价值商单、争议通知、诉讼风险或复杂授权，请咨询专业知识产权律师。
