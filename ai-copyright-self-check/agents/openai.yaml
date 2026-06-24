@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI作品侵权自查指南"
+  short_description: "发布前检查 AI 作品的 IP、音乐、声音和商用风险"
+  default_prompt: "Use $ai-copyright-self-check to review my AI image or video before publishing, including IP similarity, BGM/music, voice, likeness, and commercial-use risks."
