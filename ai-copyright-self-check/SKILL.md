@@ -14,7 +14,7 @@ Start with the artifact, not a lecture. Ask for missing inputs only when they ch
 Required facts to gather when available:
 - Artifact type: image, video, script, article, BGM, voice, AI cover, prompt, reference board, client deliverable.
 - Use case: private test, public post, commercial account, sponsored content, paid course, client ad, product sale, merchandise.
-- Sources: reference images, IP/character names, footage, music/BGM source, voice source, platform/library, client-provided assets.
+- Sources: reference images, IP/character names, footage, music/BGM source, voice source, platform/library, client-provided assets, and whether any music was generated from reference tracks, stems, melody extraction, transcription, covers, remixes, or "distilled" examples.
 - Distribution: X, YouTube, TikTok/Douyin, Xiaohongshu, course platform, paid deliverable, marketplace.
 - Authorization evidence: license file, screenshot, contract, platform terms, client confirmation.
 
@@ -31,6 +31,7 @@ If the user provides a video/audio file, inspect or transcribe what is practical
    - Does the work reuse names, costumes, props, catchphrases, relationships, settings, or other distinctive IP elements?
    - Does it show or imitate an identifiable real person, face, voice, signature performance, or celebrity persona?
    - Is the music, BGM, melody, recording, voice model, or AI cover clearly authorized for this exact use?
+   - Was any generated music derived from unlicensed source songs, Bilibili/NetEase/QQ Music/YouTube tracks, stems, melody extraction, chord transcription, covers, remixes, or distillation workflows?
    - Is the use commercial, sponsored, paid, client-facing, monetized, or likely to substitute for the original market?
    - Has the creator added enough original expression, or is the result mostly a recognizable reproduction?
 

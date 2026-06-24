@@ -48,6 +48,7 @@ cp -R ai-copyright-self-check ~/.codex/skills/
 - AI 图 / AI 视频是否太像具体 IP、角色、logo、影视作品
 - 同人 / 二创内容是否进入商用高危区
 - BGM、平台曲库、AI 翻唱、声音克隆是否有授权风险
+- Suno / Udio 等 AI 音乐是否存在“用原曲蒸馏、扒谱、仿写后绕过检测”的高风险仿版问题
 - 真人脸、名人声音、声纹和肖像相关风险
 - 商单、带货、课程、客户交付前需要保留哪些授权证据
 - 如何把“像某个 IP”改成“受启发的原创”
@@ -83,6 +84,7 @@ cp -R ai-copyright-self-check ~/.codex/skills/
 作品描述或文件：
 参考素材来源：
 音乐/BGM/配音来源：
+是否用了原曲、stem、扒谱、旋律提取、翻唱、remix 或蒸馏参考：
 是否用了真人脸、名人声音、角色名、logo：
 我已有的授权证据：
 我最担心的问题：
@@ -93,6 +95,7 @@ cp -R ai-copyright-self-check ~/.codex/skills/
 ## 示例报告
 
 - [动漫同人压力测试：火影忍者高度指向案例](examples/anime-naruto-risk-test.md)
+- [Suno 仿版音乐风险测试](examples/suno-soundalike-risk-case.md)
 - [快速测试输入模板](examples/quick-start-case.md)
 
 ## 仓库结构
@@ -104,6 +107,7 @@ ai-copyright-self-check/
   references/                 # 风险矩阵、同人/IP、音乐声音、商单、改原创
 examples/
   anime-naruto-risk-test.md   # 动漫同人压力测试报告
+  suno-soundalike-risk-case.md # Suno 仿版音乐风险测试
   quick-start-case.md         # 可复制测试输入
 assets/                       # 海报和文章配图
 install.sh                    # 一键安装脚本
